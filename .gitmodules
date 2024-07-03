@@ -5,3 +5,6 @@
 [submodule "BiObjClass"]
 	path = BiObjClass
 	url = https://github.com/cran/BiObjClass
+[submodule "ppRank"]
+	path = ppRank
+	url = https://github.com/cran/ppRank
